@@ -26,7 +26,8 @@ namespace MiPrimeritaAPI.API.Controllers
                 return BadRequest();
             }
 
-            [HttpGet("All")]
+            [HttpGet]
+            [Route("All")]
             public ActionResult<List<UserDTO>> GetAlumnos()
             {
                 return Ok(UserBL.GetUsers());

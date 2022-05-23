@@ -16,9 +16,9 @@ namespace MiPrimeritaAPI.API.Controllers
             }
 
             [HttpPost]
-            public bool CheckLogin(string Name, string Password)
+            public bool CheckLogin(LoginDTO loginDTO)
             {
-                return LoginBL.CheckLogin(Name, Password);
+                return LoginBL.CheckLogin(loginDTO.Name, loginDTO.Password);
                     
             }
     }
