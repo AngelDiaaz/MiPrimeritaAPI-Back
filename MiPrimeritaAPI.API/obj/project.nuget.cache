@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ay6MFzfaLz9b9MFGx60TOQChTiT51rHAgCjIBqnPiem/YeWB7jZow3QkhYniXka3Ey1DxkkP5hqK322YfMIDsQ==",
+  "dgSpecHash": "A92AgbLVpih73yloUIl6pG3auUODXtz5DayO+dtTnbAPckfPAw5q4tfABzow19NpODAHV7N/4UVKlYCeNj4n/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.API\\MiPrimeritaAPI.API.csproj",
+  "projectFilePath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.API\\MiPrimeritaAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adiaz\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\adiaz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

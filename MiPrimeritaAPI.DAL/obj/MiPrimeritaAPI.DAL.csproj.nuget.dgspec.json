@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj": {}
+    "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj": {
+    "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj",
         "projectName": "MiPrimeritaAPI.DAL",
-        "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj",
+        "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj",
         "packagesPath": "C:\\Users\\adiaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\obj\\",
+        "outputPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,12 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.1, )"
             },

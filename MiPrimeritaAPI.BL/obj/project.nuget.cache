@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GiC9ozXERi9N4To0whgjlYlMAU3jwoeYFHBTW3/4sU7O6HgSSkUlS6PI0I3MHuQnls3pY+vR3N0SblEpFthLzQ==",
+  "dgSpecHash": "dpM/UkJvYSqRi4fYO5FXK48r4RXk0IcnwsadF9oT9VISe0oaIxdaX3bYXFqiernnWmWlQHBYMVnke4nuM/v6cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.BL\\MiPrimeritaAPI.BL.csproj",
+  "projectFilePath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.BL\\MiPrimeritaAPI.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adiaz\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\adiaz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

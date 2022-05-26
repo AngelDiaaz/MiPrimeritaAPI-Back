@@ -11,6 +11,7 @@ namespace MiPrimeritaAPI.DAL
 {
     public class IESContext : DbContext
     {
+        public DbSet<Alumno> Alumnos { get; set; }
         public DbSet<User> User { get; set; }
         protected readonly IConfiguration Configuration;
 

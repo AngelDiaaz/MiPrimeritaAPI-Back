@@ -18,6 +18,26 @@ namespace MiPrimeritaAPI.DAL.Migrations
                 .HasAnnotation("ProductVersion", "6.0.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
+            modelBuilder.Entity("MiPrimeritaAPI.DAL.Tables.Alumno", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("DNI")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("PIN")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Alumnos");
+                });
+
             modelBuilder.Entity("MiPrimeritaAPI.DAL.Tables.User", b =>
                 {
                     b.Property<int>("Id")
@@ -28,6 +48,7 @@ namespace MiPrimeritaAPI.DAL.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("Email")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("Name")

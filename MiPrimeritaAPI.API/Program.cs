@@ -19,6 +19,8 @@ builder.Services.AddScoped<IUserBL, UserBL>();
 builder.Services.AddScoped<IUserDAL, UserDAL>();
 builder.Services.AddScoped<ILoginDAL, LoginDAL>();
 builder.Services.AddScoped<ILoginBL, LoginBL>();
+builder.Services.AddScoped<IAlumnoDAL, AlumnoDAL>();
+builder.Services.AddScoped<IAlumnoBL, AlumnoBL>();
 
 builder.Services.AddAutoMapper(cfg => cfg.AddProfile(new AutomapperProfile()));
 

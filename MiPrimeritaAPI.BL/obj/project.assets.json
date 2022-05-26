@@ -798,11 +798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.BL\\MiPrimeritaAPI.BL.csproj",
+      "projectUniqueName": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.BL\\MiPrimeritaAPI.BL.csproj",
       "projectName": "MiPrimeritaAPI.BL",
-      "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.BL\\MiPrimeritaAPI.BL.csproj",
+      "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.BL\\MiPrimeritaAPI.BL.csproj",
       "packagesPath": "C:\\Users\\adiaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.BL\\obj\\",
+      "outputPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -819,11 +819,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.CORE\\MiPrimeritaAPI.CORE.csproj": {
-              "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.CORE\\MiPrimeritaAPI.CORE.csproj"
+            "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.CORE\\MiPrimeritaAPI.CORE.csproj": {
+              "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.CORE\\MiPrimeritaAPI.CORE.csproj"
             },
-            "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj": {
-              "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPIUsers\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj"
+            "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj": {
+              "projectPath": "C:\\Users\\adiaz\\OneDrive\\Escritorio\\Programación\\WorkSpaceAPI\\repo\\MiPrimeritaAPI-Back\\MiPrimeritaAPI.DAL\\MiPrimeritaAPI.DAL.csproj"
             }
           }
         }

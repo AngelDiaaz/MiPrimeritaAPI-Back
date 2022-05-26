@@ -48,3 +48,17 @@ C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAP
 C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPIUsers\MiPrimeritaAPI.DAL\obj\Debug\net6.0\refint\MiPrimeritaAPI.DAL.dll
 C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPIUsers\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.pdb
 C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPIUsers\MiPrimeritaAPI.DAL\obj\Debug\net6.0\ref\MiPrimeritaAPI.DAL.dll
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.AssemblyInfo.cs
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.dll
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\refint\MiPrimeritaAPI.DAL.dll
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.pdb
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\bin\Debug\net6.0\MiPrimeritaAPI.DAL.deps.json
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\bin\Debug\net6.0\MiPrimeritaAPI.DAL.dll
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\bin\Debug\net6.0\MiPrimeritaAPI.DAL.pdb
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\ref\MiPrimeritaAPI.DAL.dll
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\bin\Debug\net6.0\MiPrimeritaAPI.DAL.runtimeconfig.json
+C:\Users\adiaz\OneDrive\Escritorio\Programación\WorkSpaceAPI\repo\MiPrimeritaAPI-Back\MiPrimeritaAPI.DAL\obj\Debug\net6.0\MiPrimeritaAPI.DAL.genruntimeconfig.cache
