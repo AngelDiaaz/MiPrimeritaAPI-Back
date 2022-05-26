@@ -19,6 +19,7 @@ namespace MiPrimeritaAPI.API.Controllers
             /// </summary>
             /// <param name="a">Alumno a insertar.</param>
             [HttpPost]
+            [Route("Register")]
             public ActionResult Insert(UserDTO u)
             {
                 if (UserBL.Insert(u))
