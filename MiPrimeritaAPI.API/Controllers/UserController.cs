@@ -35,11 +35,11 @@ namespace MiPrimeritaAPI.API.Controllers
             }
 
             [HttpGet]
-            public ActionResult<UserDTO?> GetUser(string Name)
+            public ActionResult<UserDTO?> GetUser(UserDTO user)
             {
-                var user = UserBL.GetUser(Name);
-                if (user != null)
-                    return Ok(user);
+                var u = UserBL.GetUser(user.Name);
+                if (u != null)
+                    return Ok(u);
                 else
                     return NotFound();
             }
@@ -52,9 +52,9 @@ namespace MiPrimeritaAPI.API.Controllers
             }
 
             [HttpDelete]
-            public ActionResult Delete(string Name)
+            public ActionResult Delete(UserDTO user)
             {
-                UserBL.Delete(Name);
+                UserBL.Delete(user.Name);
                 return Ok();
             }
         }

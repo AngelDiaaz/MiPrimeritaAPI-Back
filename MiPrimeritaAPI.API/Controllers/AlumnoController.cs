@@ -21,6 +21,7 @@ namespace MiPrimeritaAPI.API.Controllers
         /// </summary>
         /// <param name="a">Alumno a insertar.</param>
         [HttpPost]
+        [Route("Insert")]
         public ActionResult Insert(AlumnoDTO a) 
         {
             if(alumnoBL.Insert(a))
@@ -46,6 +47,7 @@ namespace MiPrimeritaAPI.API.Controllers
         }
 
         [HttpPut]
+        [Route("Update")]
         public ActionResult<AlumnoDTO?> Update(AlumnoDTO alumno)
         {
             alumnoBL.Update(alumno);            
@@ -53,9 +55,10 @@ namespace MiPrimeritaAPI.API.Controllers
         }
 
         [HttpDelete]
-        public ActionResult Delete(string DNI)
+        [Route("Delete")]
+        public ActionResult Delete(AlumnoDTO alumno)
         {
-            alumnoBL.Delete(DNI);
+            alumnoBL.Delete(alumno.DNI);
             return Ok();            
         }
 
