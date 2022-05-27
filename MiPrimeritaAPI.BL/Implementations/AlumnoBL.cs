@@ -65,7 +65,7 @@ namespace MiPrimeritaAPI.BL.Implementations
         public void Update(AlumnoDTO alumnoDTO)
         {
             var alumno = mapper.Map<Alumno>(alumnoDTO);
-
+            
             alumnoDAL.Update(alumno);
         }
     }
