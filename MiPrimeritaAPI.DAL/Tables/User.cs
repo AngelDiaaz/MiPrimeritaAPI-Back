@@ -14,6 +14,6 @@ namespace MiPrimeritaAPI.DAL.Tables
         public string Name { get; set; }
         public string Email { get; set; }
         public string Password{ get; set; }
-        public string? Date_birthday { get; set; }
+        public DateTime? Date_birthday { get; set; }
     }
 }
