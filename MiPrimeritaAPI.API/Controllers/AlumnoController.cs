@@ -16,10 +16,6 @@ namespace MiPrimeritaAPI.API.Controllers
             this.alumnoBL = alumnoBL;
         }
 
-        /// <summary>
-        /// Esto sirve para insertar un alumno.
-        /// </summary>
-        /// <param name="a">Alumno a insertar.</param>
         [HttpPost]
         [Route("Insert")]
         public ActionResult Insert(AlumnoDTO a) 
