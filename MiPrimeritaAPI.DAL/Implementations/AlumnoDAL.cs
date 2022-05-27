@@ -44,6 +44,7 @@ namespace MiPrimeritaAPI.DAL.Implementations
         {
             
             var alumnoBD = GetAlumno(alumno!.DNI);
+            
             if (alumnoBD != null)
             {
                 alumnoBD.Nombre = alumno.Nombre;
